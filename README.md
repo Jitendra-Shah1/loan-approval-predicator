@@ -1,6 +1,7 @@
 #  Loan Approval Predictor
 
 A machine learning web app that predicts whether a loan application will be approved or rejected — instantly, based on applicant and financial details.
+##Live Demo:https://loan-approval-predicator.streamlit.app/
 
 ---
 
