@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Predictor
+#  Loan Approval Predictor
 
 A machine learning web app that predicts whether a loan application will be approved or rejected — instantly, based on applicant and financial details.
 
@@ -25,11 +25,11 @@ Loan_Approval_Prediction/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/loan-approval-predictor.git
+https://github.com/Jitendra-Shah1/loan-approval-predicator.git
 cd loan-approval-predictor
 ```
 
